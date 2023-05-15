@@ -16,7 +16,6 @@
 
 You will get the follow result if the api is runing on http://localhost:5000
 
-
 ==============================================================================
 Test :: Phonebooking API Test
 ==============================================================================
